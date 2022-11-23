@@ -9,7 +9,7 @@ On this project I used the COVID-19 dataset from Our World in Data (https://ourw
 You can download the dataset I used from this link --> https://1drv.ms/u/s!Ap6RQoql7bOahe9Tw0xiW43ZYOEIPA?e=WRmyxx
 
 
-** Nashville Housing Data - Data Cleaning using SQL**
+**Nashville Housing Data - Data Cleaning using SQL**
 
 Database tools used: Azure Data Studio and Microsoft SQL Server 2019
 
